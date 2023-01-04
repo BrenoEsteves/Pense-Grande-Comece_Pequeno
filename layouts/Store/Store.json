@@ -766,10 +766,41 @@
 						}
 					},
 					"world": {
-						"x": 786,
-						"y": 210,
+						"x": 221,
+						"y": 121,
 						"width": 180,
 						"height": 220,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "OBJ_Player2",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "ANIM_IdleDown",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 38,
+					"instanceVariables": {
+						"INSV_PlayerDirection": ""
+					},
+					"behaviors": {},
+					"world": {
+						"x": 55,
+						"y": 184,
+						"width": 76.22335600063802,
+						"height": 152.44671200127604,
 						"originX": 0.5,
 						"originY": 0.5,
 						"color": [

@@ -378,6 +378,14 @@
 								},
 								{
 									"id": "set-visible",
+									"objectClass": "OBJ_Player2",
+									"sid": 574178869060800,
+									"parameters": {
+										"visibility": "visible"
+									}
+								},
+								{
+									"id": "set-visible",
 									"objectClass": "OBJ_FaintScreen",
 									"sid": 378498354998014,
 									"parameters": {
@@ -391,6 +399,15 @@
 									"parameters": {
 										"x": "OBJ_Player.X+150",
 										"y": "OBJ_Player.Y"
+									}
+								},
+								{
+									"id": "set-position",
+									"objectClass": "OBJ_Player2",
+									"sid": 866261384007343,
+									"parameters": {
+										"x": "OBJ_Player.X+7",
+										"y": "OBJ_Player.Y+70"
 									}
 								},
 								{
@@ -445,6 +462,14 @@
 									"id": "set-visible",
 									"objectClass": "OBJ_BGMenuPlayer",
 									"sid": 415427333895566,
+									"parameters": {
+										"visibility": "invisible"
+									}
+								},
+								{
+									"id": "set-visible",
+									"objectClass": "OBJ_Player2",
+									"sid": 325630610032692,
 									"parameters": {
 										"visibility": "invisible"
 									}

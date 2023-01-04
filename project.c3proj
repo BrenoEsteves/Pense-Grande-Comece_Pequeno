@@ -125,7 +125,8 @@
 			"OBJ_Player",
 			"Colliders",
 			"Tilemap",
-			"OBJ_LogoRR"
+			"OBJ_LogoRR",
+			"OBJ_Player2"
 		],
 		"subfolders": [
 			{
